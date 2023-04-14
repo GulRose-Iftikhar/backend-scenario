@@ -17,7 +17,7 @@
 		<testng.version>7.1.0</testng.version>
 		<extentreports.version>4.1.1</extentreports.version>
 		<extenreport.relevantcodes.version>2.41.2</extenreport.relevantcodes.version>
-		<json.version>20200518</json.version>
+		<json.version>20230227</json.version>
 		<maven.compiler.verison>3.8.1</maven.compiler.verison>
 
 	</properties>
